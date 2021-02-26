@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hello there!
+
+I´m currently following the steps from the tutorial.
